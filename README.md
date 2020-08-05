@@ -3,3 +3,4 @@
   - `.vimrc`
 ## System Changes:
   - `source-code-pro-nerd-fonts.sh`
+		- extract nerd patched font family to system fonts directory
